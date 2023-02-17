@@ -1,0 +1,2 @@
+#r equirements.txt
+snowflake-connecter-python
